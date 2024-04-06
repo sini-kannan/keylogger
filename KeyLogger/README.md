@@ -1,0 +1,1 @@
+Developing a keylogger application to capture and log keystrokes on a computer system. The project aims to understand the functionality of keyloggers, potential use cases, and implications for cybersecurity.
